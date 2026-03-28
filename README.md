@@ -13,9 +13,6 @@
 
 <p align="center"><strong>README Languages</strong></p>
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-111111?style=for-the-badge" alt="README English">
-  </a>
   <a href="./documentation/README.it.md">
     <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9-Italiano-2E8B57?style=for-the-badge" alt="README Italiano">
   </a>
